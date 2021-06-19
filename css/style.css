@@ -135,6 +135,3 @@ body {
     color: grey;
     padding-bottom: 10px;
   }
-  input[type='checkbox']:checked + label {
-    text-decoration: line-through;
-  }
